@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElectPot</string>
+    <string name="welcome_text">Welcome\n To\n ElectPot</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+
+
+</resources>
